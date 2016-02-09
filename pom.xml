@@ -16,7 +16,7 @@
         <project.reporting.outputEncoding>ISO-8859-1</project.reporting.outputEncoding>
         <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
         <kernsoftware.version>3.6.5</kernsoftware.version>
-        <distributionspaket.status>BETA</distributionspaket.status>
+        <distributionspaket.status>FREI</distributionspaket.status>
 <!--
         <distributionspaket.standDatum>${maven.build.timestamp}</distributionspaket.standDatum>
 -->
