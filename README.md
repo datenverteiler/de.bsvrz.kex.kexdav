@@ -1,5 +1,5 @@
-KExDaV [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.kex.kexdav.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.kex.kexdav)
-======
+KExDaV v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.kex.kexdav.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.kex.kexdav)
+==============
 
 
 Bauen und Veröffentlichen
