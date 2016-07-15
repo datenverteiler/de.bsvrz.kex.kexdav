@@ -344,6 +344,7 @@
                 <configuration>
                     <threshold>High</threshold>
                     <includeTests>true</includeTests>
+	               <failOnError>false</failOnError>
                 </configuration>
                 <executions>
                     <execution>
@@ -422,6 +423,7 @@
                 <version>3.0.3</version>
                 <configuration>
                     <includeTests>true</includeTests>
+                    <failOnError>false</failOnError>
                 </configuration>
             </plugin>
             <plugin>
