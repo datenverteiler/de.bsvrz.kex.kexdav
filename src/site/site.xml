@@ -14,7 +14,7 @@
             <leftColumnClass>span3</leftColumnClass>
             <bodyColumnClass>span9</bodyColumnClass>
             <gitHub>
-                <projectId>datenverteiler/de.bsvrz.kex.kexdav</projectId>
+                <projectId>bitctrl/de.bsvrz.kex.kexdav</projectId>
                 <ribbonOrientation>right</ribbonOrientation>
             </gitHub>
         </fluidoSkin>
